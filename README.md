@@ -2,7 +2,7 @@
 ## Description
 Run of the mill Python-based Twitter automation. Uses multi-threading to create as many bots as you have API keys for.
 
-Required flags are `-c CON, --config CON` and `-v VIC, --victim VIC` what are a configuration file and list of targets to reply to.
+Required flags are `-c CON, --config CON` and `-v VIC, --victim VIC` that are a configuration file and list of targets to reply to respectively.
 
 ### Config file
 The config file lists the accounts you want to automate:
